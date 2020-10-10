@@ -1,0 +1,41 @@
+body {
+  background-image: url("/kipnugget.gif");
+  background-repeat: repeat;
+}
+
+h1 {
+  text-align: center;
+  font-size: 72pt;
+  color: pink;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: black;
+}
+
+.text {
+  width: 60%;
+  margin: 0 auto;
+}
+
+p {
+  background-color: pink;
+  text-align: center;
+  font-size: 36px;
+  padding: 50px;
+}
+
+.pink {
+  padding: 50px;
+  background-color: pink;
+}
+
+#kipnugget {
+}
+
+.center {
+  margin: 0 auto;
+  width: 170px;
+}
+
+#nugget-counter {
+  font-size: 36pt;
+}
